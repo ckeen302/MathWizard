@@ -2,7 +2,7 @@
 
 Math Wizard is an interactive web application that allows users to analyze and visualize mathematical expressions. It provides a user-friendly interface for performing various mathematical operations and graphing functions.
 
-Live Site: [Math Wizard](https://math-wizard-v0.vercel.app)
+Live Site: https://v0-newton-ot65ium3hep.vercel.app 
 
 ## Features
 
