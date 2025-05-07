@@ -2,7 +2,7 @@
 
 Math Wizard is an interactive web application that allows users to analyze and visualize mathematical expressions. It provides a user-friendly interface for performing various mathematical operations and graphing functions.
 
-Live Site: https://v0-newton-ot65ium3hep.vercel.app 
+Live Site: https://mymathwizard.vercel.app
 
 ## Features
 
@@ -84,10 +84,3 @@ Then, to start the production server:
 \`\`\`
 npm start
 \`\`\`
-
-## Deployment
-
-This project is set up to be easily deployed on Vercel. Simply connect your GitHub repository to Vercel and it will automatically deploy your main branch.
-
-Remember to add your `NEXT_PUBLIC_DESMOS_API_KEY` to your Vercel project's environment variables.
-
